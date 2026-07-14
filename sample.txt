@@ -1,1 +1,1 @@
-git hands ongit status
+git hands ongit checkout -b feature
